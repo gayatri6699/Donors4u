@@ -1,0 +1,2 @@
+# Donors4u
+ Donors4u is a browser based system that is designed to store,process,retrieve and analyse information concerned with the administrative and inventory management within a blood bank. This project aims at maintaining all the information  pertaining to blood donars , different blood groups available in each blood bank  and help them manage in a better way.Aim is to provide transparency in this field , make the process of obtaining blood from a blood bank  hassle free and corruption free and make the system of blood bank
