@@ -1,0 +1,88 @@
+
+.bg {
+background: #e01d1d;
+    color: white; 
+    
+}
+.btn-outline-danger:hover{
+    background-color: #e01d1d;
+}
+.form-control {
+    display: block;
+    width: 100%;
+    padding: .5rem .75rem;
+    font-size: 1rem;
+    line-height: 1.25;
+    color: red;
+    background-color: #fff;
+    background-image: none;
+    -webkit-background-clip: padding-box;
+    background-clip: padding-box;
+    border-radius: 10px;
+    -webkit-transition: border-color ease-in-out .15s,-webkit-box-shadow ease-in-out .15s;
+    transition: border-color ease-in-out .15s,-webkit-box-shadow ease-in-out .15s;
+    -o-transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+    transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+    transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s,-webkit-box-shadow ease-in-out .15s;
+}
+.navbar-toggleable-md .navbar-nav .nav-link {
+
+    padding-right: 2rem;
+    padding-left: 2rem;
+
+}
+a:hover{
+    background-color: #ffffff;
+    border-radius:50px;
+    color:red;
+    padding: 10px 20px;
+    
+
+}
+
+
+.navbar {
+    height: 50px;
+}
+
+.bb {
+    margin-top: 20px;
+    height:300px;
+    width:1500px;
+    background: url("images/banner4.png") center center no-repeat;
+/*    background-color: red;*/
+    background-size: cover; 
+}    
+
+/*
+body{
+     background: url("images/ban.jpg") center center no-repeat;
+    background-size: cover;
+    height: 700px;
+    
+}
+*/
+.list {
+}
+
+label {
+    color: black;
+    font-size: 20px;
+}
+
+.logbg {
+   
+    height: 700px;
+}
+
+.container {
+    margin-top: 50px;
+    
+}
+
+.heading {
+    border: 2px solid red;
+    border-radius: 20px;
+    padding: 10px 20px;
+    width: 400px;
+}
